@@ -52,7 +52,7 @@ QWEN_TURBO = "qwen-turbo"
 QWEN_PLUS = "qwen-plus"
 QWEN_MAX = "qwen-max"
 QWEN_DASHSCOPE = ""
-QWEN_QWQ = "qwq-32b"
+QWEN_QWQ = "qwen-qwq"
 
 LINKAI_35 = "linkai-3.5"
 LINKAI_4_TURBO = "linkai-4-turbo"
