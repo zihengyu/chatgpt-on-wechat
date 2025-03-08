@@ -51,6 +51,8 @@ WEN_XIN_4 = "wenxin-4"
 QWEN_TURBO = "qwen-turbo"
 QWEN_PLUS = "qwen-plus"
 QWEN_MAX = "qwen-max"
+QWEN_DASHSCOPE = ""
+QWEN_QWQ = "qwq-32b"
 
 LINKAI_35 = "linkai-3.5"
 LINKAI_4_TURBO = "linkai-4-turbo"
@@ -95,7 +97,7 @@ MODEL_LIST = [
               GEMINI, GEMINI_PRO, GEMINI_15_flash, GEMINI_15_PRO,GEMINI_20_flash_exp,
               CLAUDE_3_OPUS, CLAUDE_3_OPUS_0229, CLAUDE_35_SONNET, CLAUDE_35_SONNET_1022, CLAUDE_35_SONNET_0620, CLAUDE_3_SONNET, CLAUDE_3_HAIKU, "claude", "claude-3-haiku", "claude-3-sonnet", "claude-3-opus", "claude-3.5-sonnet",
               "moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k",
-              QWEN, QWEN_TURBO, QWEN_PLUS, QWEN_MAX,
+              QWEN, QWEN_TURBO, QWEN_PLUS, QWEN_MAX,QWEN_QWQ
               LINKAI_35, LINKAI_4_TURBO, LINKAI_4o,
               DEEPSEEK_CHAT, DEEPSEEK_REASONER
             ]
